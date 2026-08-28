@@ -52,16 +52,13 @@ Tools         Git · GitHub · Postman · Android Studio
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity
 
-<div align="center">
-
-![Qasim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=QasimNaseer313&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QasimNaseer313&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
+- 🔨 **12** public repositories
+- 🚀 Production systems shipped: **2** (VitalView + Job Tracker)
+- ☁️ Cloud platforms: **Vercel · Render · Railway · Neon · Firebase · AWS**
+- 🛠️ Languages: **Python · JavaScript · C++**
+- 📦 Databases deployed: **PostgreSQL · MySQL · Firebase Firestore**
 ---
 
 ## 🏆 Certifications
